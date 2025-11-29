@@ -1,3 +1,5 @@
-## Hello Git!
+## Welcome to Git!
 
-I'm adding this from 'fearture-branch'
+
+- This is coming from 'dev-adrian'
+- I'm adding this from 'fearture-branch'
