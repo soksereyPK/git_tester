@@ -1,3 +1,5 @@
-## Hello Git!
+## Heyoo everyone, welcome to by Git guide!
 
-I'm adding this from 'fearture-branch'
+
+- Yo, Johnny here!
+- I'm adding this from 'fearture-branch'
